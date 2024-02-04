@@ -1,0 +1,6 @@
+bin/**
+build/**
+projects/buildPSP/**
+projects/.vs/**
+projects/x64/**
+tracks/**
